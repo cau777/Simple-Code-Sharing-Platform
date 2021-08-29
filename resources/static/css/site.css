@@ -1,0 +1,36 @@
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.code-display {
+    border: solid #2b2b2b 0.01rem;
+    border-radius: 5px;
+	font-family: monospace;
+	padding: 5px;
+}
+
+.code-snippet {
+    margin-bottom: 0;
+}
+
+textarea.code-display {
+    min-height: 5rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
